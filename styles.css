@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    font-family: "Montserrat", serif;
+    background: radial-gradient(circle, #ffdde1, #ee9ca7);
+    background-size: cover;
+    color: #6a0572;
+}
+
+h1 {
+    margin-bottom: 100px;
+    font-weight: bolder;
+}
+
+h2 {
+    color: #d63384;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+p {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.btn-password {
+    background: linear-gradient(135deg, #e94560, #ff7eb3);
+    color: white;
+    font-size: 16px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(233, 69, 96, 0.4);
+    margin-bottom: 50px;
+}
+
+.btn-password:hover {
+    transition: scale(1.05);
+    box-shadow: 0px 6px 15px rgba(233, 69, 96, 0.4);
+}
+
+.passwords-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.password-display-one {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-display-two {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-display-three {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-display-four{
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-display-five {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-display-six {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #e94560;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
